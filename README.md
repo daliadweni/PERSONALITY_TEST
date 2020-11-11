@@ -1,10 +1,8 @@
-# Simple-Personality-Quiz
+# CHASITI_QUIZ
 
 A simple quiz built with HTML, CSS, JavaScript.
 
-## URL
 
-https://codepen.io/edubz99/pen/PeRjNb?editors=1010
 
 ### Browser Support
 
@@ -16,12 +14,9 @@ https://codepen.io/edubz99/pen/PeRjNb?editors=1010
 
 ### More about
 
-This quiz is built using Javascript, HTML & CSS. Currently the application offers very basic functionality.
+This quiz is built by MEDALIADWENI using Javascript, HTML & CSS. Currently the application offers very basic functionality.
 
 ## Authors
 
-* **Evans Dube** - (https://github.com/edubz99)
+* **Mouhamed ali adweni** - (https://www.facebook.com/mouhamedali.adweni.9/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
