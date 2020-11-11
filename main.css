@@ -19,7 +19,7 @@ body {
   text-shadow: 1px 1px white;
   padding: 3rem;
   text-shadow: 0 1px #00000010;
-  width: 60%;
+  width: 70%;
   margin: 5rem auto;
   display: flex;
   flex-direction: column;
@@ -36,14 +36,14 @@ body {
   text-transform: uppercase;
 }
 .question {
-  margin: 2rem 0;
-  font-size: 1.5rem;
+  margin: 4rem 0;
+  font-size: 3rem;
 }
 .option {
-  padding: 1rem;
+  padding: 2rem;
   color: #00000095;
   background: rgba(255, 255, 255, 0.1);
-  width: 80%;
+  width: 90%;
   border-radius: 5px;
   transition: all 0.3s;
 }
@@ -55,10 +55,10 @@ body {
   color: #000;
 }
 .controls > * {
-  margin: 1rem;
+  margin: 2rem;
 }
 button {
-  padding: 0.5rem 1.5rem;
+  padding: 1rem 3rem;
   border: none;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
@@ -104,7 +104,7 @@ button:focus {
   color: #00000099;
 }
 .summary {
-  font-size: 1rem;
+  font-size: 2rem;
   text-shadow: 1px 1px #ffffff50;
   color: #00000099;
   background: rgba(255, 255, 255, 0.4);
